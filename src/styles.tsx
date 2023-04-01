@@ -29,6 +29,7 @@ export const NewItemButton = styled.div`
   color: #fff;
   padding: 6px 12px;
   text-align: center;
+  cursor: pointer;
 `
 export const NewItemInput = styled.input`
   border-radius: 3px;
